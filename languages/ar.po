@@ -21,7 +21,7 @@ msgstr ""
 
 #: classes/framework.class.php:345
 msgid "Settings saved."
-msgstr "تم حفظ الأعدادات"
+msgstr "تم حفظ الإعدادات"
 
 #: classes/framework.class.php:346
 msgid "Save"
@@ -33,7 +33,7 @@ msgstr "جارى الحفظ .."
 
 #: classes/framework.class.php:347
 msgid "Restore"
-msgstr "استعاده"
+msgstr "استعادة"
 
 #: classes/framework.class.php:349
 msgid "show all options"
@@ -49,16 +49,16 @@ msgstr "الاستخدام"
 
 #: classes/options.class.php:137
 msgid "VALUE"
-msgstr "القيمه"
+msgstr "القيمة"
 
 #: classes/options.class.php:210
 msgid "You are editing language: ( %s )"
-msgstr "انت تقوم بتحرير اللغه : ( %s )"
+msgstr "أنت تقوم بتحرير اللغة : ( %s )"
 
 #: classes/shortcode.class.php:82 classes/shortcode.class.php:90
 #: fields/textarea/textarea.php:27
 msgid "Add Shortcode"
-msgstr "اضف كود مختصر"
+msgstr "أضف كود مختصر"
 
 #: classes/shortcode.class.php:92
 msgid "Select a shortcode"
@@ -66,7 +66,7 @@ msgstr "اختيار كود مختصر"
 
 #: classes/shortcode.class.php:108
 msgid "Insert Shortcode"
-msgstr "ادراج كود مختصر"
+msgstr "إدراج كود مختصر"
 
 #: fields/background/background.php:31 fields/background/background.php:32
 #: fields/upload/upload.php:23 fields/upload/upload.php:24
@@ -75,19 +75,19 @@ msgstr "رفع"
 
 #: fields/background/background.php:33 fields/upload/upload.php:25
 msgid "Use Image"
-msgstr "استخدم صوره"
+msgstr "استخدم صورة"
 
 #: fields/backup/backup.php:21
 msgid "Import a Backup"
-msgstr "استيراد النسخه الاحتياطيه"
+msgstr "استيراد النسخة الاحتياطية"
 
 #: fields/backup/backup.php:22
 msgid "copy-paste your backup string here"
-msgstr "انسخ-الصق محتوى ملف الاعدادات"
+msgstr "انسخ-الصق محتوى ملف الإعدادات"
 
 #: fields/backup/backup.php:27
 msgid "Export and Download Backup"
-msgstr "تحميل وتصدير ملف الاعدادات"
+msgstr "تحميل وتصدير ملف الإعدادات"
 
 #: fields/backup/backup.php:28
 msgid "or"
@@ -95,11 +95,11 @@ msgstr "أو"
 
 #: fields/backup/backup.php:29
 msgid "Reset All Options"
-msgstr "استعاده كل الاعدادات الافتراضيه"
+msgstr "استعادة كل الإعدادات الافتراضية"
 
 #: fields/backup/backup.php:30
 msgid "Please be sure for reset all of framework options."
-msgstr "من فضلك كن متأكد من استعاده كل الاعدادات الافتراضيه"
+msgstr "من فضلك تأكد من استعادة كل الإعدادات الافتراضية"
 
 #: fields/gallery/gallery.php:21
 msgid "Add Gallery"
@@ -115,7 +115,7 @@ msgstr "مسح"
 
 #: fields/group/group.php:21
 msgid "Adding"
-msgstr "اضافه"
+msgstr "إضافة"
 
 #: fields/group/group.php:33 fields/group/group.php:64
 msgid "Remove"
@@ -123,31 +123,31 @@ msgstr "حذف"
 
 #: fields/icon/icon.php:25 functions/actions.php:47
 msgid "Add Icon"
-msgstr "اضف ايقونه"
+msgstr "أضف أيقونة"
 
 #: fields/icon/icon.php:26
 msgid "Remove Icon"
-msgstr "حذف ايقونه"
+msgstr "حذف أيقونة"
 
 #: fields/image/image.php:22
 msgid "Add Image"
-msgstr "اضف صوره"
+msgstr "أضف صورة"
 
 #: fields/sorter/sorter.php:24
 msgid "Enabled Modules"
-msgstr "الموديولات المفعله"
+msgstr "الموديولات المفعلة"
 
 #: fields/sorter/sorter.php:25
 msgid "Disabled Modules"
-msgstr "الموديولات المعطله"
+msgstr "الموديولات المعطلة"
 
 #: fields/switcher/switcher.php:20
 msgid "on"
-msgstr "on"
+msgstr "تفعيل"
 
 #: fields/switcher/switcher.php:20
 msgid "off"
-msgstr "off"
+msgstr "إيقاف"
 
 #: fields/typography/typography.php:72
 msgid "Web Safe Fonts"
@@ -159,11 +159,11 @@ msgstr "خطوط جوجل"
 
 #: fields/typography/typography.php:106
 msgid "Error! Can not load json file."
-msgstr "خطأ:لا يمكن تحميل ملف josn"
+msgstr "خطأ:لا يمكن تحميل ملف json"
 
 #: functions/actions.php:48
 msgid "Search a Icon..."
-msgstr "بحث عن ايقونه"
+msgstr "بحث عن أيقونة"
 
 #: functions/actions.php:49
 msgid "Loading..."
@@ -175,12 +175,12 @@ msgstr "تصنيف هذا الحقل غير متاح"
 
 #: functions/validate.php:14
 msgid "Please write a valid email address!"
-msgstr "من فضلك ادخل بريد الكترونى سليم!"
+msgstr "من فضلك أدخل بريد إلكتروني سليم!"
 
 #: functions/validate.php:33
 msgid "Please write a numeric data!"
-msgstr "من فضلك ادخل قيمه رقميه!"
+msgstr "من فضلك أدخل قيمهة رقمية!"
 
 #: functions/validate.php:51
 msgid "Fatal Error! This field is required!"
-msgstr "خطأ: هذا الحقل ضرورى!"
+msgstr "خطأ: هذا الحقل ضروري!"
